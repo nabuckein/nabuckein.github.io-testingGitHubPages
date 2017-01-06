@@ -9,7 +9,7 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
-  "homepage": "https://nabuckein.github.io/ISProductions",
+  "homepage": "https://nabuckein.github.io-testingGitHubPages",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
